@@ -92,7 +92,7 @@ h1{ /* Members Text Font Settings */
 
 /* Customizable falling stars */
 .snowflake {
-    color: green;
+    color: orange;
     font-size: 1em;
     font-family: Arial, sans-serif;
     text-shadow: 0 0 5px #000;
@@ -218,9 +218,7 @@ h1{ /* Members Text Font Settings */
 
 
 
-  pre{
-    color:green
-  }
+ 
 
 
   #enter{
